@@ -25,7 +25,7 @@ make
 ```
 
 ### Windows
-From the Microsoft Store app, install “Ubuntu 18.04.5 LTS”.
+From the Microsoft Store app, install “Ubuntu 22.04.2 LTS”.
 
 If you have a WSLRegisterDistribution failure then -->
 On the Taskbar, click on the Windows Search bar and type Control Panel. Then in the results shown, click on Control Panel.
